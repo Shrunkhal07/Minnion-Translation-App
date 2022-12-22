@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+}
+
+.container{
+    max-width: 600px;
+    margin: auto;
+}
+
+#output{
+    padding: 1rem;
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    border: 1px solid black;
+}
