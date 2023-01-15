@@ -1,8 +1,9 @@
-.body {
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #fafafa;
+    text-align: center;
   }
   
 .header{
@@ -36,6 +37,7 @@
     font-size: 16px; 
     margin: 4px 2px; 
     cursor: pointer; 
+    
   }
   
   /* Add a hover effect for the buttons */
